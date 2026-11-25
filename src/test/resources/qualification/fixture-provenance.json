@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "fixture": "easyconstat-synthetic-valid.asice",
+  "fixtureSha256": "69cc4b09931852de5af280273aef6693e9f287f2d6e98c1291d6d7f5e42523c4",
+  "trustStore": "easyconstat-synthetic-trust.jks",
+  "trustStoreSha256": "5e592520867a5194c018b81f1bdc9fdc7143a59110be35fcdf892bd5cd71ad6a",
+  "trustStoreType": "JKS",
+  "generatedAt": "2026-11-19T12:00:00Z",
+  "purpose": "Non-production ASiC-E/CAdES-B-LT verifier qualification fixture"
+}
