@@ -44,7 +44,7 @@
         <jackson.version>2.20.1</jackson.version>
         <junit.version>5.13.4</junit.version>
         <slf4j.version>2.0.20</slf4j.version>
-        <bouncycastle.version>1.86</bouncycastle.version>
+        <bouncycastle.version>1.87</bouncycastle.version>
     </properties>
 
     <dependencyManagement>
